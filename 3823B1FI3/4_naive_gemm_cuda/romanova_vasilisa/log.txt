@@ -1,0 +1,13 @@
+/home/crazyproger/sandbox/cuda-2026/3823B1FI3/4_naive_gemm_cuda/romanova_vasilisa/naive_gemm_cuda.cu(4): error: "restrict" is not allowed
+  __attribute__((global)) void NaiveMatrixMultiply(const __restrict__ float* a, const __restrict__ float* b, __restrict__ float* c, int n) {
+                                                         ^
+
+/home/crazyproger/sandbox/cuda-2026/3823B1FI3/4_naive_gemm_cuda/romanova_vasilisa/naive_gemm_cuda.cu(4): error: "restrict" is not allowed
+  __attribute__((global)) void NaiveMatrixMultiply(const __restrict__ float* a, const __restrict__ float* b, __restrict__ float* c, int n) {
+                                                                                      ^
+
+/home/crazyproger/sandbox/cuda-2026/3823B1FI3/4_naive_gemm_cuda/romanova_vasilisa/naive_gemm_cuda.cu(4): error: "restrict" is not allowed
+  __attribute__((global)) void NaiveMatrixMultiply(const __restrict__ float* a, const __restrict__ float* b, __restrict__ float* c, int n) {
+                                                                                                             ^
+
+3 errors detected in the compilation of "/home/crazyproger/sandbox/cuda-2026/3823B1FI3/4_naive_gemm_cuda/romanova_vasilisa/naive_gemm_cuda.cu".
