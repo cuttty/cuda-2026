@@ -1,0 +1,7 @@
+1 error generated.
+Build log:
+error: /home/crazyproger/.cache/pocl/kcache/tempfile_xBha7G.cl:10:22: use of undeclared identifier 'a'
+Device NVIDIA GeForce RTX 4060 failed to build the program
+
+terminate called after throwing an instance of 'cl::BuildError'
+  what():  clBuildProgram

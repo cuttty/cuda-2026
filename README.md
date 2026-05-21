@@ -631,6 +631,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1FI3|lukin_ivan|0.0409|9|
 |3823B1FI3|luzan_egor|0.0444|17|
 |3823B1FI3|papulina_yuliya|0.0462|16|
+|3823B1FI3|romanova_vasilisa|0.0465|21|
 |**FAST**|**FAST**|**0.0484**|**-**|
 |**REF**|**REF**|**0.0534**|**-**|
 
@@ -645,6 +646,7 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1FI3|gonozov_leonid|0.0764|19|
 |3823B1FI3|zavyalov_alexey|0.0767|6|
 |3823B1FI3|gutyansky_alexey|0.0793|15|
+|3823B1FI3|romanova_vasilisa|0.0835|21|
 |3823B1FI3|baldin_andrew|0.0844|4|
 |3823B1FI3|lukin_ivan|0.0854|8|
 |3823B1FI3|kurpiakov_aleksei|0.0867|3|
@@ -684,32 +686,33 @@ std::vector<float> GeluOCL(const std::vector<float>& input, int platform) {
 |3823B1FI3|levonychev_ivan|0.2502|1|
 |3823B1FI3|baldin_andrew|0.2518|2|
 |**REF**|**REF**|**0.2986**|**-**|
+|3823B1FI3|romanova_vasilisa|RUN FAILED|-|
 
 # Tasks Done
 ## 3823B1FI3
 |Group|Name|Passed|Score|
 |-----|----|------|-----|
-|3823B1FI3|baldin_andrew|**9/9**|**439**|
+|3823B1FI3|baldin_andrew|**9/9**|**438**|
 |3823B1FI3|chacshin_vladimir|**9/9**|**414**|
 |3823B1FI3|dolov_vyacheslav|**9/9**|**424**|
-|3823B1FI3|frolova_sofya|8/9|320|
+|3823B1FI3|frolova_sofya|8/9|319|
 |3823B1FI3|gonozov_leonid|**9/9**|**339**|
 |3823B1FI3|gutyansky_alexey|**9/9**|**422**|
 |3823B1FI3|kichanova_ksenia|**9/9**|**484**|
 |3823B1FI3|konstantinov_semen|**9/9**|**375**|
-|3823B1FI3|kurpiakov_aleksei|**9/9**|**430**|
+|3823B1FI3|kurpiakov_aleksei|**9/9**|**429**|
 |3823B1FI3|kurpiakov_alexei|2/9|97|
 |3823B1FI3|kutergin_valentin|**9/9**|**457**|
-|3823B1FI3|kutuzov_ivan|**9/9**|**367**|
-|3823B1FI3|levonychev_ivan|**9/9**|**426**|
-|3823B1FI3|lukin_ivan|**9/9**|**405**|
-|3823B1FI3|luzan_egor|**9/9**|**284**|
-|3823B1FI3|papulina_yuliya|**9/9**|**343**|
-|3823B1FI3|potashnik_maxim|**9/9**|**380**|
-|3823B1FI3|pylaeva_svetlana|**9/9**|**419**|
-|3823B1FI3|romanov_artem|**9/9**|**425**|
-|3823B1FI3|romanova_vasilisa|4/9|133|
-|3823B1FI3|votincev_dmitri|**9/9**|**419**|
+|3823B1FI3|kutuzov_ivan|**9/9**|**366**|
+|3823B1FI3|levonychev_ivan|**9/9**|**425**|
+|3823B1FI3|lukin_ivan|**9/9**|**404**|
+|3823B1FI3|luzan_egor|**9/9**|**283**|
+|3823B1FI3|papulina_yuliya|**9/9**|**342**|
+|3823B1FI3|potashnik_maxim|**9/9**|**379**|
+|3823B1FI3|pylaeva_svetlana|**9/9**|**418**|
+|3823B1FI3|romanov_artem|**9/9**|**424**|
+|3823B1FI3|romanova_vasilisa|6/9|193|
+|3823B1FI3|votincev_dmitri|**9/9**|**418**|
 |3823B1FI3|zavyalov_alexey|**9/9**|**414**|
 
 Passed: 19
